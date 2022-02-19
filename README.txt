@@ -1,5 +1,4 @@
 # HelloWorldInSomeProgrammingLanguage
-Mục lục nội dung
 ANGOL
 ASPECTJ
 APPLESCRIPT
